@@ -1,4 +1,10 @@
 # React + Vite
+Self-note:
+- Understanding React components
+- Practicing Bootstrap
+- HTML Advance Forms
+- Module CSS
+- Advance Javascript functions
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
