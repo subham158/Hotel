@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container-fluid">
         <a className="navbar-brand text-center" href="#">
           <img
-            src="https://media.licdn.com/dms/image/D5603AQG2UVi3xWiXAA/profile-displayphoto-shrink_800_800/0/1680588517745?e=1721865600&v=beta&t=brjX-1E0XbTldOdR2a55gkwn9DpfISPhkBaUjSfETOg"
+            src="https://media.licdn.com/dms/image/v2/D5603AQG2UVi3xWiXAA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1680588517745?e=2147483647&v=beta&t=2LJYdgnBnt9X1s9pOhJs19v3uILtum1sRxtXK31LGe0"
             alt="Logo"
             className="rounded-circle"
             height="55px"
